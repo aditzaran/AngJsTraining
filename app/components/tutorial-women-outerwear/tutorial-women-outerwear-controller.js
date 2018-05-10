@@ -1,0 +1,4 @@
+
+tutorialApp.controller('WomenOuterwearController', function(){
+
+});
